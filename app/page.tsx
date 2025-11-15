@@ -137,7 +137,7 @@ export default function Home() {
 
             <div className="relative h-96 bg-gradient-to-br from-primary/10 to-secondary/10 rounded-2xl flex items-center justify-center">
               <div className="text-center">
-                <img src="/professional-handyman-working.jpg" alt="Handyman working" className="rounded-lg" />
+                <img src="/professional-handyman-working-cE.webp" alt="Handyman working" className="rounded-lg" />
               </div>
             </div>
           </div>
@@ -248,7 +248,7 @@ export default function Home() {
             </div>
 
             <div className="h-96 bg-gradient-to-br from-primary/10 to-secondary/10 rounded-2xl flex items-center justify-center">
-              <img src="/team-working-together.jpg" alt="Team working" className="rounded-lg" />
+              <img src="/team-working-together-HHPjEupwJY.webp" alt="Team working" className="rounded-lg" />
             </div>
           </div>
         </div>
